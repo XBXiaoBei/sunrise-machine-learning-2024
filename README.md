@@ -19,3 +19,9 @@ You can visit [sunrise-machine-learning](https://github.com/ZhenhHuang/sunrise-m
 ---
 
 Have fun learning
+
+
+
+If you think it will help you, you can treat me to a cup of milk tea, thank you very much.
+
+<img src="./pic/money.jpg" alt="money" style="zoom:33%;" />
