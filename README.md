@@ -2,8 +2,8 @@
 
 Welcome to Sunrise Lab.
 
-+ The [task](./pre-task) are some tasks before the next group meeting
-+ The [tools](./Tools) are some of the better tools I've ever used, you can share the better tools you have used.
++ The [task](./tasks/) are some tasks before the next group meeting
++ The [tools](./tools) are some of the better tools I've ever used, you can share the better tools you have used.
 
 
 
