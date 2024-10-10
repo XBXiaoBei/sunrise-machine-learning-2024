@@ -15,6 +15,8 @@ Welcome to Sunrise Lab.
 
 You can visit [sunrise-machine-learning](https://github.com/ZhenhHuang/sunrise-machine-learning) to browse the lab's code.
 
+You can visit [deep-learning](https://github.com/XBXiaoBei/DeepLearning) to browse the code I wrote while studying.
+
 
 
 ---
